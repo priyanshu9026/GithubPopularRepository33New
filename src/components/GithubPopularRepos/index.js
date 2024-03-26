@@ -3,6 +3,8 @@ import Loader from 'react-loader-spinner'
 
 import LanguageFilterItem from '../LanguageFilterItem'
 import RepositoryItem from '../RepositoryItem'
+// import LanguageFilterItem from '../LanguageFilterItem'
+// import RepositoryItem from '../RepositoryItem'
 
 import './index.css'
 
